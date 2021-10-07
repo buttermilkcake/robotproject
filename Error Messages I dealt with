@@ -31,3 +31,8 @@ Then I typed in npm update and then npm start
 
 9/29/21
 ***AFTER ALL THIS I FINALLY HAVE SUCCESS AND THE PROJECT IS STARTING!!***
+
+10/7/21
+Had to change this over to my project laptop, npm taking too long on work laptop and causing crashes. Had to clone repo to project laptop, install node.js, which created a new package.json which is not as complete as orig pkg.json with the file, so am having to update that. Had to do npm init. On npm start got error message about npm ERR! missing script: start. 
+
+When tried to push modified files up to github, asked for username, password, then said now requiring tokens, so I set that up and also 2 factor authentication.
