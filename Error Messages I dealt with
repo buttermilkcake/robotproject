@@ -36,3 +36,9 @@ Then I typed in npm update and then npm start
 Had to change this over to my project laptop, npm taking too long on work laptop and causing crashes. Had to clone repo to project laptop, install node.js, which created a new package.json which is not as complete as orig pkg.json with the file, so am having to update that. Had to do npm init. On npm start got error message about npm ERR! missing script: start. 
 
 When tried to push modified files up to github, asked for username, password, then said now requiring tokens, so I set that up and also 2 factor authentication.
+
+Updated package.json to match original and had to do npm update npm audit-fix and then pushed modified files up to git hub, then when did npm start, it did what it was supposed to do.
+
+Won't show up in browser. Now I'm getting this error:
+Manifest: Line: 1, column: 1, Syntax error.
+No flipping clue, may delete this and start over downloading orig repo AGAIN. I guess at least I'm getting a lot of practice.
